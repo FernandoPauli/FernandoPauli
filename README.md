@@ -1,6 +1,6 @@
 Hi, I’m @FernandoPauli
 <div>
-I’m currently learning C#, HTML, javascript and CSS
+I’m currently learning C#, javascript and SASS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
